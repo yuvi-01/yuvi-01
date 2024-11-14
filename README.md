@@ -11,7 +11,7 @@ Hello! I'm Yuvraj Singh Bisht, a fresher with a strong passion for frontend deve
 ## 🔥 About Me
 
 - 🌱 Currently learning **React.js** and enhancing my knowledge of **Arrays** in DSA.
-- ⚡ Active contributor in **GirlScript Summer of Code 2024** and participant in **Hacktoberfest 2024**.
+- ⚡ Active contributor in **GirlScript Summer of Code 2024**.
 - 👨‍💻 Strong foundation in **HTML**, **CSS**, **JavaScript**, and familiar with **C++** for problem-solving.
 - 💼 Open to frontend development opportunities and internships to further grow my skills.
 - 📖 Always looking for ways to expand my **English vocabulary** and improve my communication skills.
@@ -39,11 +39,15 @@ Hello! I'm Yuvraj Singh Bisht, a fresher with a strong passion for frontend deve
 
 ---
 
+## 👀 Total Viewers
+
+![Profile Views](https://komarev.com/ghpvc/?username=yuvi-01&color=blue&style=flat-square)
+
+---
+
 ## 🏆 Achievements
 
 - **Contributor** at [GirlScript Summer of Code 2024](https://gssoc.girlscript.tech/).
-- Participated in [Hacktoberfest 2024](https://hacktoberfest.com/).
-- Completed an **AI and Data Science Internship** at **YBI Foundation**.
 
 ---
 
@@ -52,6 +56,7 @@ Hello! I'm Yuvraj Singh Bisht, a fresher with a strong passion for frontend deve
 - **Email**: your.email@example.com
 - **LinkedIn**: [Yuvraj Singh Bisht](https://www.linkedin.com/in/yourprofile/)
 - **GitHub**: [github.com/yuvi-01](https://github.com/yuvi-01)
+- **CodeChef**: [uv_123](https://www.codechef.com/users/uv_123)
 
 ---
 
@@ -65,8 +70,10 @@ Hello! I'm Yuvraj Singh Bisht, a fresher with a strong passion for frontend deve
 
 ## ✨ Fun Fact
 
-I love playing **cricket** and **football** in my free time!
+I make gaming videos on **YouTube**! Check out one of my videos:  
 
-![Cricket GIF](https://media.giphy.com/media/Vf3gL6Lzt6nJq/giphy.gif)
+[![My Latest Gaming Video](https://img.youtube.com/vi/L8KSYZnHtVE/0.jpg)](https://youtu.be/L8KSYZnHtVE)
+
+
 
 ---
