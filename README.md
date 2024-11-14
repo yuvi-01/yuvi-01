@@ -1,24 +1,72 @@
-<h1 align="center">Hi 👋, I'm Yuvraj Singh Bisht</h1>
-<h3 align="center">I am a passionate frontend developer and problem solver, aiming to create efficient, scalable, and visually appealing web applications.</h3>
+# Yuvraj Singh Bisht
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvi-01&label=Profile%20views&color=0e75b6&style=flat" alt="yuvi-01" /> </p>
+**Passionate Frontend Developer | Problem Solver | Contributor at GirlScript Summer of Code 2024**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-- 📫 How to reach me **yuvrajsinghbishtuvi303@gmail.com**
+Hello! I'm Yuvraj Singh Bisht, a fresher with a strong passion for frontend development and solving challenging problems. I enjoy working with modern web technologies and continuously improving my data structure and algorithm (DSA) skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yuviii01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuviii01/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/___yuviiiiiiiiiii___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/___yuviiiiiiiiiii___/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/uv_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/uv_123" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## 🔥 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvi-01&show_icons=true&locale=en&layout=compact" alt="yuvi-01" /></p>
+- 🌱 Currently learning **React.js** and enhancing my knowledge of **Arrays** in DSA.
+- ⚡ Active contributor in **GirlScript Summer of Code 2024** and participant in **Hacktoberfest 2024**.
+- 👨‍💻 Strong foundation in **HTML**, **CSS**, **JavaScript**, and familiar with **C++** for problem-solving.
+- 💼 Open to frontend development opportunities and internships to further grow my skills.
+- 📖 Always looking for ways to expand my **English vocabulary** and improve my communication skills.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvi-01&show_icons=true&locale=en" alt="yuvi-01" /></p>
+![Web Dev GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvi-01&" alt="yuvi-01" /></p>
+---
+
+## 🛠️ Technologies & Tools
+
+- **Frontend**: HTML, CSS, JavaScript, React.js (learning)
+- **Problem Solving**: C++, Data Structures & Algorithms (DSA)
+- **Tools**: Git, GitHub, VSCode, Chrome DevTools
+- **Others**: Responsive Web Design, Cross-Browser Compatibility
+
+---
+
+## 📈 GitHub Stats
+
+![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvi-01&show_icons=true&theme=radical)
+
+## 📊 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvi-01&layout=compact&theme=radical)](https://github.com/yuvi-01)
+
+---
+
+## 🏆 Achievements
+
+- **Contributor** at [GirlScript Summer of Code 2024](https://gssoc.girlscript.tech/).
+- Participated in [Hacktoberfest 2024](https://hacktoberfest.com/).
+- Completed an **AI and Data Science Internship** at **YBI Foundation**.
+
+---
+
+## 📫 How to Reach Me
+
+- **Email**: your.email@example.com
+- **LinkedIn**: [Yuvraj Singh Bisht](https://www.linkedin.com/in/yourprofile/)
+- **GitHub**: [github.com/yuvi-01](https://github.com/yuvi-01)
+
+---
+
+## 🧠 What I'm Currently Working On
+
+- 🌐 Building responsive, user-friendly interfaces with **React.js**.
+- 💡 Solving DSA problems to strengthen my understanding of **arrays** and other key concepts.
+- 🎯 Exploring open-source contributions in web development projects.
+
+---
+
+## ✨ Fun Fact
+
+I love playing **cricket** and **football** in my free time!
+
+![Cricket GIF](https://media.giphy.com/media/Vf3gL6Lzt6nJq/giphy.gif)
+
+---
