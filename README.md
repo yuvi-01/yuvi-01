@@ -55,7 +55,6 @@ Hello! I'm Yuvraj Singh Bisht, a fresher with a strong passion for frontend deve
 
 - **Email**: your.email@example.com
 - **LinkedIn**: [Yuvraj Singh Bisht](https://www.linkedin.com/in/yourprofile/)
-- **GitHub**: [github.com/yuvi-01](https://github.com/yuvi-01)
 - **CodeChef**: [uv_123](https://www.codechef.com/users/uv_123)
 
 ---
@@ -67,12 +66,6 @@ Hello! I'm Yuvraj Singh Bisht, a fresher with a strong passion for frontend deve
 - 🎯 Exploring open-source contributions in web development projects.
 
 ---
-
-## ✨ Fun Fact
-
-I make gaming videos on **YouTube**! Check out one of my videos:  
-
-[![My Latest Gaming Video](https://img.youtube.com/vi/L8KSYZnHtVE/0.jpg)](https://youtu.be/L8KSYZnHtVE)
 
 
 
