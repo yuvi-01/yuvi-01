@@ -33,6 +33,14 @@ Hello! I'm Yuvraj Singh Bisht, a fresher with a strong passion for frontend deve
 
 ![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvi-01&show_icons=true&theme=radical)
 
+---
+
+## 📊 Daily Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yuvi-01&theme=radical&hide_border=true)
+
+---
+
 ## 📊 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvi-01&layout=compact&theme=radical)](https://github.com/yuvi-01)
@@ -53,8 +61,8 @@ Hello! I'm Yuvraj Singh Bisht, a fresher with a strong passion for frontend deve
 
 ## 📫 How to Reach Me
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Yuvraj Singh Bisht](https://www.linkedin.com/in/yourprofile/)
+- **Email**: [yuvrajsinghbishtuvi303@gmail.com](mailto:yuvrajsinghbishtuvi303@gmail.com)
+- **LinkedIn**: [Yuvraj Singh Bisht](https://www.linkedin.com/in/yuviii01/)
 - **CodeChef**: [uv_123](https://www.codechef.com/users/uv_123)
 
 ---
@@ -64,9 +72,3 @@ Hello! I'm Yuvraj Singh Bisht, a fresher with a strong passion for frontend deve
 - 🌐 Building responsive, user-friendly interfaces with **React.js**.
 - 💡 Solving DSA problems to strengthen my understanding of **arrays** and other key concepts.
 - 🎯 Exploring open-source contributions in web development projects.
-
----
-
-
-
----
