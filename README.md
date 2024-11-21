@@ -98,4 +98,4 @@ Hello! I'm Yuvraj Singh Bisht, a fresher with a strong passion for frontend deve
 
 - 🌐 Building responsive, user-friendly interfaces with **React.js**.
 - 💡 Solving DSA problems to strengthen my understanding of **arrays** and other key concepts.
-- 🎯 Exploring open-source contributions in web development projects.
+- 🎯 Exploring open-source contributions in web development projects..
